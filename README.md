@@ -28,14 +28,6 @@ _TWILIO_ACCOUNTSID = "ACccccccccccccccccccccccccc"       #Your Twilio Account SI
 
 _TWILIO_TOKEN = "1ad1ad1ad1ad1ad1ad1ad1ad1ad1ad"         #Your Twilio Token
 
-
-_MINERS = [{'address': 'http://127.0.0.1:3333', 'ID': 'Gaming', 'hashrate': 0, 'sendSMS': False, 'status': ' ', 'smsDelayOn': False},
-
-           {'address': 'http://192.1.1.3:3333', 'ID': 'Rig 1', 'hashrate': 0, 'sendSMS': False, 'status': ' ', 'smsDelayOn': False},
-           
-           {'address': 'http://192.1.0.4:3333', 'ID': 'Rig 2', 'hashrate': 0, 'sendSMS': False, 'status': ' ', 'smsDelayOn': False}]
-
-
 for _MINERS update the address and ID params only
 
 I am sure I missed stuff you need to know. 
