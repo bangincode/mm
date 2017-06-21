@@ -3,6 +3,10 @@ Mining Monitor
 
 Quick and dirty
 
+Tested on Win10 should work on Linux as well
+
+Python2 or Python3
+
 TODO: Lots
 
 Currently the only dependency is twilio library
