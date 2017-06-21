@@ -21,10 +21,11 @@ _TWILIO_PHONE = "+17777777777"  #Your Twilio Phone number
 _TWILIO_ACCOUNTSID = "ACccccccccccccccccccccccccc"       #Your Twilio Account SID
 _TWILIO_TOKEN = "1ad1ad1ad1ad1ad1ad1ad1ad1ad1ad"         #Your Twilio Token
 
+#Only change address and ID
 _MINERS = [{'address': 'http://127.0.0.1:3333', 'ID': 'Gaming Sys', 'hashrate': 0, 'sendSMS': False, 'status': ' ', 'smsDelayOn': False},
-           {'address': 'http://192.168.1.101:3333', 'ID': 'Mining Rig 1', 'hashrate': 0, 'sendSMS': False, 'status': ' ', 'smsDelayOn': False},
-           {'address': 'http://192.168.0.106:3333', 'ID': 'Mining Rig 2', 'hashrate': 0, 'sendSMS': False, 'status': ' ', 'smsDelayOn': False},
-           {'address': 'http://192.168.1.102:3333', 'ID': 'Mining Rig 3', 'hashrate': 0, 'sendSMS': False, 'status': ' ', 'smsDelayOn': False}]
+           {'address': 'http://192.168.1.11:3333', 'ID': 'Mining Rig 1', 'hashrate': 0, 'sendSMS': False, 'status': ' ', 'smsDelayOn': False},
+           {'address': 'http://192.168.1.12:3333', 'ID': 'Mining Rig 2', 'hashrate': 0, 'sendSMS': False, 'status': ' ', 'smsDelayOn': False},
+           {'address': 'http://192.168.1.13:3333', 'ID': 'Mining Rig 3', 'hashrate': 0, 'sendSMS': False, 'status': ' ', 'smsDelayOn': False}]
 
 
 def updateConsole(message, refresh, skip):
