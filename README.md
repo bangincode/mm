@@ -1,5 +1,5 @@
 # mm
-Mining Monitor
+Mining Monitor non-gui version
 
 Quick and dirty
 
@@ -9,7 +9,7 @@ Python2 or Python3
 
 TODO: Lots
 
-Currently the only dependency is twilio library
+Currently the only dependency is the twilio library
 
 HOW TO INSTALL: pip install twilio>=6.0.0
 
